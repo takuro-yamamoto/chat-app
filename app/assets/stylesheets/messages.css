@@ -77,24 +77,24 @@
 .message{
   margin-bottom: 40px;
 }
-.m_user{
+.message_user{
   display: flex;
   padding-top: 10px;
 }
-.m_username{
+.message_user_name{
   font-size: 16px;
   color: 4#434a54;
 }
-.time{
+.message_date{
   font-size: 12px;
   color: #999;
 }
-.text{
+.message_content{
   padding-top: 10px;
   font-size: 14px;
   color: #434a54;
 }
-.chat_lower{
+.form{
   height: 90px;
   background-color: #DDDDDD;
   padding: 20px 40px;
